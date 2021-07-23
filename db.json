@@ -1,0 +1,9 @@
+{
+    {"pname":"Lifeboy","prize":30,"category":"soap"},
+    {"pname":"Dettol","prize":35,"category":"soap"},
+    {"pname":"Savlon","prize":25,"category":"soap"},
+    {"pname":"Colgate","prize":55,"category":"Toothpaste"},
+    {"pname":"Pepsodent","prize":60,"category":"Toothpaste"},
+    {"pname":"Amul","prize":50,"category":"Milk product"},
+    {"pname":"MotherDairy","prize":45,"category":"Milk product"}
+}
